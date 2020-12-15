@@ -27,7 +27,7 @@ The application itself can be started with `node index.js`.
 
 *Instructions and examples for use:*
 
-[ezgif com-gif-maker](https://user-images.githubusercontent.com/71414528/102160570-86787a80-3e3a-11eb-932c-1850c66ee36c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71414528/102160570-86787a80-3e3a-11eb-932c-1850c66ee36c.gif)
 
 
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.
